@@ -27,6 +27,18 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+.quote > p{
+    font-size: 1.5em;
+}
+
+.quote--italic > p{
+    font-style: italic;
+}
+
+.quote--min > p{
+    font-size: 1em;
+}
+
 .bloc {
     width: 100%;
     clear: both;
